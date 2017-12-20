@@ -17,6 +17,10 @@ pip install pyaudio
 ```
 rec temp.wav
 ```
+4.Install hyper.
+```
+pip install hyper
+```
 
 ## 测试环境
 * MacOS
